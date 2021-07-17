@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hello Mate, I'm Vignesh <img src = Hi.gif height = "32px"></h1>
 
 <!--
 **vigneshmanyala/vigneshmanyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
