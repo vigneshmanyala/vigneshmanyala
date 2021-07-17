@@ -8,7 +8,7 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://github.com/vigneshmanyala/vigneshmanyala/blob/main/code.gif" width="230">
 
 ### <img src="https://github.com/vigneshmanyala/vigneshmanyala/blob/main/aboutme.gif" width="50"> A little more about me...  
 
