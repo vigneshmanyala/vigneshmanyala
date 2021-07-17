@@ -1,4 +1,6 @@
-<h1 align="center">Hello Mate, I'm Vignesh <img src = Hi.gif height = "32px"></h1>
+ <h1 align="center"> <a target="_blank">
+    <img src="https://github.com/vigneshmanyala/vigneshmanyala/blob/main/earth.gif" width="24px" style="max-width:100%;">
+  </a>Hello Mate, I'm Vignesh <img src = Hi.gif height = "32px"></h1>
 <h3 align="center">| CODER | WEB DEVELOPER | SELF-LEARNER |</h3>
 
 I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's.I have experimented with HTML, CSS, PHP etc and done some some personal projects on them u can see on my Repository.
@@ -16,11 +18,15 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 
 - 🌱 I’m currently learning **Competitive programming**
 
+- 🤔 I'm loooking for help with internships
+
 - 👨‍💻 All of my projects are available at [here](https://github.com/vigneshmanyala)
 
 - 📫 How to reach me **vigneshmanyala0@gmail.com**
 
-- ⚡ FunFact **Go and search [Recursion](https://www.google.com/search?q=recursion&bih=722&biw=1536&rlz=1C1YTUH_enIN943IN943&hl=en&sxsrf=ALeKk001CnsfZXfaBebuhRqS31UauwrLAg%3A1626513817542&ei=maHyYPbNIMiy9QOPpabYCg&oq=recursion&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAgAELEDEJECMgUIABCxAzICCAAyCggAEIcCELEDEBQyBQgAEJECMgUIABCxAzICCAAyBQgAELEDMgIIADoHCAAQRxCwAzoHCAAQhwIQFEoFCDwSATFKBAhBGABQnosBWLiQAWCWlQFoAXACeACAAYYBiAHfA5IBAzAuNJgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwi2_sOS5OnxAhVIWX0KHY-SCasQ4dUDCA4&uact=5") in google and it will show you Suggestion even though u pressed the Suggestion**
+- ⚡ Fun fact : **Go and search [Recursion](https://www.google.com/search?q=recursion&bih=722&biw=1536&rlz=1C1YTUH_enIN943IN943&hl=en&sxsrf=ALeKk001CnsfZXfaBebuhRqS31UauwrLAg%3A1626513817542&ei=maHyYPbNIMiy9QOPpabYCg&oq=recursion&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCAgAELEDEJECMgUIABCxAzICCAAyCggAEIcCELEDEBQyBQgAEJECMgUIABCxAzICCAAyBQgAELEDMgIIADoHCAAQRxCwAzoHCAAQhwIQFEoFCDwSATFKBAhBGABQnosBWLiQAWCWlQFoAXACeACAAYYBiAHfA5IBAzAuNJgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwi2_sOS5OnxAhVIWX0KHY-SCasQ4dUDCA4&uact=5") in google and it will show you Suggestion even though u pressed the Suggestion**
+
+- 🏠 Hogwarts House : **Slythrin 🐍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
