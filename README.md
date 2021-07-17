@@ -61,7 +61,7 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 | <b>Coding</b> | <b>Anime</b> |
 
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/vigneshmanyala?tab=repositories'> Repositories</a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/vigneshmanyala?tab=repositories'> Repositories</a>🥺</h4>
 
 
 <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/vigneshmanyala/vigneshmanyala/blob/main/Handshake.gif" height="30px"></h4> <br>
