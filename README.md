@@ -3,7 +3,7 @@
   </a>Hello, I'm Vignesh <img src = Hi.gif height = "32px"></h1>
 <h3 align="center">| CODER | WEB DEVELOPER | SELF-LEARNER |</h3>
 
-I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's.I have experimented with HTML, CSS, PHP etc and done some some personal projects on them u can see on my Repository.
+I am a final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's.I have experimented with HTML, CSS, PHP etc and done some some personal projects on them u can see on my Repository.
 
 
 
